@@ -1,0 +1,20 @@
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
+.venv/
+env/
+venv/
+push_task_by_task.ps1
+push_task_by_task.bat
+generate_all_screenshots.py
+build_assignment_docx.py
+generate_report_charts.py
+generate_architectural_diagrams.py
+
+~$*
+*.tmp
